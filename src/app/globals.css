@@ -1,0 +1,63 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+:root {
+  --radius: 0.625rem;
+
+  --background: oklch(0.97 0 0); /* White background */
+  --foreground: #971934; /* Deep burgundy for text and primary elements */
+
+  --primary: #971934; /* Main brand color (Burgundy red from logo) */
+  --primary-foreground: #ffffff; /* White text on primary background */
+
+  --secondary: #a58663; /* Warm beige for section backgrounds */
+  --secondary-foreground: #000000; /* Dark text on secondary background */
+
+  --card: #ffffff; /* White background for cards */
+  --card-foreground: #971934; /* Burgundy text on cards */
+
+  --popover: #ffffff; /* Popovers with white background */
+  --popover-foreground: #961732; /* Slightly different burgundy for contrast */
+
+  --muted: #fdfdfd; /* Very light gray for subtle elements */
+  --muted-foreground: #ab8f6e; /* Soft brown for muted text */
+
+  --accent: #ab8f6e; /* Light brown for minor highlights */
+  --accent-foreground: #000000; /* Dark text on accent background */
+
+  --destructive: #961732; /* Strong burgundy for warnings/errors */
+
+  --border: #a58663; /* Beige-tan for soft border color */
+  --input: #ffffff; /* White input backgrounds */
+  --ring: #971934; /* Burgundy for focus rings */
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --radius: var(--radius);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --ring: var(--ring);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}

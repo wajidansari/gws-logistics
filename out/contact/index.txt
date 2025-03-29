@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[1932,["598","static/chunks/598-dee7c431685a82b9.js","874","static/chunks/874-c28bc0b464981966.js","482","static/chunks/482-6054aa30546e6094.js","71","static/chunks/71-473e53d89b1ef970.js","177","static/chunks/app/layout-b452b296504fce72.js"],"Header"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[6874,["874","static/chunks/874-c28bc0b464981966.js","345","static/chunks/app/not-found-aaeac4bc051919eb.js"],""]
+6:I[894,[],"ClientPageRoot"]
+7:I[2899,["598","static/chunks/598-dee7c431685a82b9.js","977","static/chunks/app/contact/page-b8e1c0465ffe0c24.js"],"default"]
+a:I[9665,[],"OutletBoundary"]
+d:I[9665,[],"ViewportBoundary"]
+f:I[9665,[],"MetadataBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/4534de92231162cf.css","style"]
+0:{"P":null,"b":"_zgwp4PXBi98C8qdpA4SE","p":"","c":["","contact",""],"i":false,"f":[[["",{"children":["contact",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4534de92231162cf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":["$","body",null,{"className":"__variable_4d318d __variable_ea5f4b antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center bg-neutral-100","children":[["$","h1",null,{"className":"text-primary text-6xl font-bold","children":"404"}],["$","p",null,{"className":"text-muted-foreground mt-4 text-lg","children":"Oops! The page you're looking for doesn't exist."}],["$","$L5",null,{"href":"/","children":["$","p",null,{"className":"bg-primary hover:bg-primary-foreground mt-6 rounded px-4 py-2 text-white","children":"Go Back Home"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"bg-primary text-neutral-100 py-6","children":["$","div",null,{"className":"container mx-auto text-center","children":[["$","p",null,{"className":"text-sm","children":["© ",2025," Your Company. All rights reserved."]}],["$","div",null,{"className":"flex justify-center space-x-4 mt-2","children":[["$","a",null,{"href":"#","className":"hover:underline","children":"Privacy Policy"}],["$","a",null,{"href":"#","className":"hover:underline","children":"Terms of Service"}],["$","a",null,{"href":"#","className":"hover:underline","children":"Contact"}]]}]]}]}]]}]}]]}],{"children":["contact",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"Component":"$7","searchParams":{},"params":{},"promises":["$@8","$@9"]}],"$undefined",null,["$","$La",null,{"children":["$Lb","$Lc",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","zQkJ9JS77QM6MY3U2ltYr",{"children":[["$","$Ld",null,{"children":"$Le"}],null]}],["$","$Lf",null,{"children":"$L10"}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+8:{}
+9:{}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+c:null
+10:[["$","title","0",{"children":" Logistics"}],["$","meta","1",{"name":"description","content":"Professional logistics and transportation services"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
