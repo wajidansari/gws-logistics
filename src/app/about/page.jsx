@@ -72,7 +72,13 @@ function AboutPage() {
            Our Company Overview
             </h2>
             <p className='mb-8 text-lg  text-justify leading-relaxed pr-2'>
-             With a global reach, deep industry expertise, cutting-edge technology, and a vast transportation network, we provide innovative, tailored solutions to help customers optimize their supply chains and stay ahead in an ever-changing market. Whether you're an experienced shipper or navigating logistics for the first time, we’re here to support you at every step—from booking shipments and clearing customs to managing warehouses—ensuring a seamless and efficient experience.</p>
+            RamG Enterprises is based in Sacramento, California. Our company specializes in cargo transportation within California and across the United States. Incorporated in 2019, our company is successfully and very dynamically developing. With a fleet of Sprinter Vans and access to box trucks upto 26ft long, we offer a complete solution for all your freight transportation needs.
+
+We specialize in moving your freight quickly and efficiently with a simple goal: to be your go-to expedited shipper. We’re committed to putting your needs first and providing top-tier service.
+
+Our wide variety of transportation and logistical solutions includes dedicated, scheduled, expedited, “hot shot”, overnight, same day on- demand routes, and door-to-door deliveries.
+
+Our dedicated team works 24/7 — nights, weekends and holidays — ensuring your shipments are always our priority. Whether it’s a small load or large freight, we get it there fast and on time. YOU’RE ALWAYS IN GOOD HANDS</p>
             <Button>
               <Link href="/services" >Learn More</Link>
             </Button>
